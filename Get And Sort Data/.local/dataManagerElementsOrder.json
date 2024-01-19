@@ -1,0 +1,29 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Birthdate&Sequence_9",
+        "_out_NApplicationCard_3__OutUiElement&Sequence_1",
+        "Name&Sequence_9",
+        "Phone&Sequence_9",
+        "Email&Sequence_9",
+        "City&Sequence_9",
+        "counter&Sequence_9",
+        "dt_Table&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
